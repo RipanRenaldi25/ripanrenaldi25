@@ -5,7 +5,7 @@ Perkenalkan nama saya **Ripan Renaldi**.
 Saya seorang **full-stack web developer**.  
 
 Saya telah berhasil membuat beberapa project aplikasi, adapun project yang telah saya buat yaitu :   
-Berikut project aplikasi yang telah saya buat :  
+
 * **[Sistem Manajemen Sekolahan (Khusus pembayaran SPP dan gaji guru)](https://github.com/RipanRenaldi/app-sistem-manajemen-sekolahan)**  
 *  **[*Simple Landing Page* untuk *Company Profile*](https://ripanrenaldi.github.io)**
 * **[Prediksi Kualitas Air Layak Minum atau Tidak](https://)**
